@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Afghanistan: Tears and protests as Taliban shut universities to women",
+            "description": "As the Taliban shut universities and other education, Afghan women see their future crumble.",
+            "url": "http://www.bbc.co.uk/news/world-asia-64048082",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E662/production/_128087985_femalestudentgettyimages-1245759590.jpg",
+            "publishedAt": "2022-12-21T11:52:24.7890768Z",
+            "content": "It's an order that girls and women across Afghanistan had been dreading ever since the Taliban returned. On Wednesday, girls in their hijabs turned up to their university campuses to be blocked and t… [+6451 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Toronto: Eight teenage girls charged with killing man",
+            "description": "The teenagers are accused of attacking a 59-year-old man in Toronto in what police called \"a swarming\".",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64050711",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18E0/production/_128086360_gettyimages-1068966376.jpg",
+            "publishedAt": "2022-12-21T10:52:24.1285156Z",
+            "content": "Eight teenage girls have been charged with the murder of a 59-year-old man in Toronto, Canadian police say.\r\nThe girls, aged between 13 and 16, are accused of stabbing the victim in what police descr… [+1576 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ros Atkins on... China’s Covid surge",
+            "description": "As China deals with a new Covid wave, Ros Atkins looks at why it’s hard to assess its scale.",
+            "url": "http://www.bbc.co.uk/news/world-asia-china-64042718",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BF20/production/_128082984_p0dqln66.jpg",
+            "publishedAt": "2022-12-21T04:37:11.5203202Z",
+            "content": "How are inflation, Ukraine and drought linked? Video, 00:03:58How are inflation, Ukraine and drought linked?"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Victims of shooting at apartments in Vaughan, Canada, named",
+            "description": "The five people killed included two couples and the grandfather of an ice hockey star.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64047284",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/120C8/production/_128082937_rita.jpg",
+            "publishedAt": "2022-12-21T04:22:17.2381847Z",
+            "content": "Canadian police have identified all five people killed at an Ontario apartment complex in an attack that appears to have been sparked by a dispute with the block's board. \r\nThree of the victims in Va… [+3233 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Elon Musk to quit as Twitter CEO when replacement found",
+            "description": "Elon Musk says he will resign as soon as he finds someone \"foolish enough\" to take over the job.",
+            "url": "http://www.bbc.co.uk/news/business-64037261",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E83/production/_115651730_breaking-promo-976.png",
+            "publishedAt": "2022-12-21T02:07:22.2346283Z",
+            "content": "Elon Musk has said he will resign as Twitter's chief executive officer when he finds someone \"foolish enough to take the job\".\r\nThe billionaire promised earlier to abide by the result of a Twitter po… [+541 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Enough fentanyl to kill every single American seized in 2022",
+            "description": "Nearly 400m potentially fatal doses - double last year's total - were intercepted by federal agents.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64047688",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15A2/production/_128083550_gettyimages-1426335931.jpg",
+            "publishedAt": "2022-12-21T01:22:21.363272Z",
+            "content": "US federal drug agents say they seized enough fentanyl in 2022 to kill every American. \r\nThe Drug Enforcement Administration (DEA) says they intercepted 379m potentially deadly fentanyl doses, which … [+1374 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "US House panel votes to make public Trump's tax returns",
+            "description": "The move could offer a first hand look into his finances, which he has long tried to shield.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64044078",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DB90/production/_128080265_862858fadd4ecd3437e7858e5e87400bcd6d9243.jpg",
+            "publishedAt": "2022-12-21T00:52:23.081937Z",
+            "content": "A committee in the US House of Representatives has voted to make public six years of Donald Trump's tax returns. \r\nThe move caps a nearly four-year legal battle by Democrats to obtain the documents, … [+2375 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Title 42: Emergency in El Paso as Trump border policy in limbo",
+            "description": "El Paso's shelters are already full, with thousands more migrants projected to cross the US border.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64046726",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/162CC/production/_128082809_title42.jpg",
+            "publishedAt": "2022-12-20T23:07:23.0818959Z",
+            "content": "The Texas border city of El Paso is grappling with a mounting humanitarian crisis as a Trump-era policy hangs in the balance, leaving many migrants unsheltered in the cold night.\r\nTitle 42 gives the … [+6292 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukrainian President Zelensky to travel to US in first foreign visit since invasion - reports",
+            "description": "The Ukrainian leader is due to address a joint session of the US Congress, according to US media.",
+            "url": "http://www.bbc.co.uk/news/world-europe-64047058",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E83/production/_115651730_breaking-promo-976.png",
+            "publishedAt": "2022-12-20T22:52:20.9618906Z",
+            "content": "Ukrainian President Volodymyr Zelensky will travel to the US Capitol in Washington on Wednesday, reports say.\r\nMr Zelensky is set to address a joint session of Congress, unnamed officials told US med… [+1226 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Deadly California earthquake leaves thousands without power",
+            "description": "The magnitude 6.4 tremor struck overnight, killing at least two people and damaging roads and buildings.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64046462",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2CA4/production/_128082411_62c4bfadbaeab4058fb31cd3d43cd8baefd04f720_0_5500_36671000x667.jpg",
+            "publishedAt": "2022-12-20T21:52:23.3792524Z",
+            "content": "Two people have died and tens of thousands of households left without power after a magnitude 6.4 earthquake rocked northern California. \r\nThe tremor has caused widespread damage to roadways and has … [+1529 chars]"
+        }
+    ]
+}
