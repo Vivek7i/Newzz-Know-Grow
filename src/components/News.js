@@ -63,7 +63,7 @@ export class News extends Component {
         <h1 style={{margin:'70px', color:'lavender'}} >Newzz-Top {this.props.category[0].toUpperCase()+this.props.category.substring(1)} Headlines</h1>
         {this.state.loading&&<Load/>}
         <div className="row my-4">
-        {!this.state.loading&&this.state.articles.map((element)=>{
+        {!this.state.loading&&this.state.articles?.map((element)=>{
                 return <div className="col-md-4 my-3" key={element.url}>
                  <NewsItem title={element.title?element.title.slice(0,45):""} description= {element.description?element.description.slice(0,80):""} imurl={element.urlToImage} nzirl={element.url} author={element.author} date={element.publishedAt} source={element.source.name}/>
                  </div>
